@@ -1,15 +1,24 @@
-body{
+.body{
     background-color: white;
     font-size: 20px;
     color: black;
-    margin: auto;
+    margin: 15px;
+    padding: 10px;
     box-sizing: border-box;
 }
-.style{
+/* 
+#header{
+    box-sizing: border-box;
+    float: left;
+    border: solid black; 
+}
+ */
+.styles{
     font-family: sans-serif;
     font-size: 20px;
-    margin: 2px;
+    margin: 10px;
     background-color: cadetblue;
+    padding: 5px;
 }
 
 .styling{
@@ -17,12 +26,5 @@ body{
     font-size: 22px;
     background-color: chartreuse;
 }
-/* 
-#header{
-    box-sizing: border-box;
-    float: right;
-    border: solid black;
-    width: 0mm;
-    height: 0mm;   
-}
- */
+
+ 
