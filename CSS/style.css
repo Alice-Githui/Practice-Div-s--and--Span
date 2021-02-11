@@ -2,6 +2,8 @@ body{
     background-color: white;
     font-size: 20px;
     color: black;
+    margin: auto;
+    box-sizing: border-box;
 }
 .style{
     font-family: sans-serif;
@@ -15,3 +17,12 @@ body{
     font-size: 22px;
     background-color: chartreuse;
 }
+/* 
+#header{
+    box-sizing: border-box;
+    float: right;
+    border: solid black;
+    width: 0mm;
+    height: 0mm;   
+}
+ */
