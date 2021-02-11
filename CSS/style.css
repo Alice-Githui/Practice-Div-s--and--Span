@@ -27,9 +27,10 @@
     background-color: chartreuse;
 }
 
- @media screen and (min-width: 1200mm;) {
-     body{
+ @media screen and (min-width: 750px) {
+     .styles{
          background-color: salmon;
+         
      }
 
  }
