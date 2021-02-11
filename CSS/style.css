@@ -27,4 +27,9 @@
     background-color: chartreuse;
 }
 
- 
+ @media screen and (min-width: 1200mm;) {
+     body{
+         background-color: salmon;
+     }
+
+ }
